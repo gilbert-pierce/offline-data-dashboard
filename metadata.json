@@ -1,0 +1,5 @@
+{
+  "name": "Offline Data Dashboard",
+  "description": "A local-first, offline-capable data dashboard with Excel import, drag-and-drop layout, and global slicing.",
+  "requestFramePermissions": []
+}
